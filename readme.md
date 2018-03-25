@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## installtion Guid
+## Installtion Guid
 - install this two package
 "guzzlehttp/guzzle": "~5.2",
 "paypal/rest-api-sdk-php": "*",
